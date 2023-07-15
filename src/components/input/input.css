@@ -1,0 +1,12 @@
+.input-box {
+    font: inherit;
+    padding: 10px;
+    border-width: 1px;
+    border-color: transparent;
+    border-style: solid;
+    border-radius: 5px;
+}
+
+.input-box:hover {
+    border-color: #646cff;
+}
